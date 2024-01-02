@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# npm
+*.sublime-*
+*.suo
+*.user
+*.sln
+*.dbmdl
+*.dbproj
+*.jfm
+*.pfx
+*.publishsettings
+node_modules/
